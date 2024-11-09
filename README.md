@@ -16,7 +16,7 @@ Tech Stack
 
 Installation
 1)Clone the repository:
-  git clone https://github.com/username/repository-name.git
+  git clone https://github.com/Yogesh2732/UserHub.git
 
 2)Open the project folder
   cd repository-name

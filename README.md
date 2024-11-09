@@ -5,16 +5,16 @@ Project Name: UserHub
 Description
 A secure user dashboard application providing login, signup, and personalized access to user data. Users can access contact information, media files, and log out securely.
 
-Features
+Features:-
 > User Login and Signup system
 > Personalized dashboard with contact, media, and logout options
 > Secure data access for logged-in users only
 
-Tech Stack
+Tech Stack:-
 > Frontend: HTML, CSS, JavaScript
 > Backend/Database (if applicable): Firebase / any backend system you may use
 
-Installation
+Installation :-
 1)Clone the repository:
   git clone https://github.com/Yogesh2732/UserHub.git
 
